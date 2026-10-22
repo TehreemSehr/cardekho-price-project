@@ -181,3 +181,17 @@ cython_debug/
 .cursorindexingignore
 data/
 *.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local secrets
+.env
