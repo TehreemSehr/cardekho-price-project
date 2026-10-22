@@ -74,5 +74,5 @@ cardekho-price-project/
 Model performance values and conclusions should be reported from the actual executed notebooks. Results may vary depending on data preparation, selected features, and model settings.
 
 ## Author
-Machine Learning Intern
+Tehreem Sehr | Machine Learning Intern
 
